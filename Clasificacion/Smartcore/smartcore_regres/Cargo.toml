@@ -1,0 +1,9 @@
+[package]
+name = "smartcore_regres"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+smartcore = "0.2.1"
+csv = "1.3"
+rand = "0.8"

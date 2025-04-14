@@ -1,0 +1,8 @@
+[package]
+name = "tfg_reg_sc_rust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+smartcore = "0.3.2"
+csv = "1.1"
